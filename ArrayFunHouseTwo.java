@@ -49,4 +49,5 @@ public class ArrayFunHouseTwo
 		}
 		return 0;
 	}
+	git config pull.rebase false # merge
 }
